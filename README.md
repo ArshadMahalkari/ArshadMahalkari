@@ -1,84 +1,77 @@
-# Hi there! 👋 I'm Arshad Mahalkari
+<h1 align="center">Hi 👋, I'm Arshad Mahalkari</h1>
+<h3 align="center">CS Engineer @ DYPCET’26 | Tech Influencer in Progress | Openly Gay | Future ML Engineer</h3>
 
-**B.Tech Undergraduate | Computer Science | Developer | Tech Enthusiast**
-
----
-
-## 👨‍💻 About Me
-
-I'm a passionate Computer Science student at D Y Patil College of Engineering and Technology (DYPCET), always on the lookout for new challenges and opportunities to learn.  
-My coding journey spans from low-level C programming to building stock prediction models with Python and machine learning.
-
-I love transforming ideas into reality through code and am always eager to explore new technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Curious+%E2%9C%94;Creative+%E2%9C%94;Community+Lover+%E2%9C%94;Coding+Nonstop+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
 ---
 
-## ⚙️ Skills & Technologies
+### 🔥 About Me
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-
-- **Currently Learning:** Data Structures & Algorithms, Advanced C++, Web Development  
-- **Tools I Use:** VS Code, Git & GitHub, Linux, Jupyter Notebook
-
----
-
-## 🚀 Projects
-
-### 📊 [StockApp](https://github.com/ArshadMahalkari/stockApp)
-A project close to my heart: a stock prediction app leveraging Python and machine learning.  
-Curious? [Check it out on GitHub!](https://github.com/ArshadMahalkari/stockApp)
-
-### 🎯 Other Projects
-- 🎮 **Guess the Number (C)** — A simple command-line game built using C.
-- 🌐 **Portfolio Website** — A personal website built with HTML, CSS, and JavaScript.
+- 🎓 CSE Sophomore at **DY Patil College of Engineering & Technology, Kolhapur**
+- 💡 Passionate about **Web Dev**, **Machine Learning**, **Arduino Projects**, and **Open Source**
+- 🌈 Loud & Proud: **Openly Gay Developer** 🏳️‍🌈
+- 🧠 Self-driven tech explorer with a flair for community building
+- 🎯 Currently building:
+  - 🤖 `Persona-Driven Document AI` – for **Adobe Hackathon 2025**
+  - 📹 `YouTube Channel`: [CodeCuriosity](https://youtube.com/@CodeCuriosity)
+- 🤝 Active in: **MLSA**, **GDG Kolhapur**, **E-Cell**, **TPO Campus Ambassador**
 
 ---
 
-## 🎉 Fun Facts
+### 🛠️ Tech Stack
 
-- 🧠 I’m always curious — I Google everything!
-- 💬 I talk to AI (like ChatGPT) more than humans sometimes 😅
-- 💡 I get my best coding ideas when I’m about to sleep 😴
-- 🌧️ I once built a system to protect clothes from rain — yep, I'm that guy!
-- 🏆 Dream: Build something that millions of people use
+**Languages**  
+`Python` `C` `C++` `HTML` `CSS` `JavaScript (Learning)`
 
----
+**Frameworks & Tools**  
+`Flask` `Bootstrap` `Arduino IDE` `Git` `Jupyter` `VS Code`
 
-## 🎯 Hobbies & Interests
-
-- 💻 Coding (even when I’m supposed to be chilling)
-- 📺 Watching tech videos and YouTube tutorials
-- 🎵 Listening to music while coding — vibe = 💯
-- 🎮 Sometimes gaming… mostly getting beaten by the AI
-- 🧩 Solving puzzles and logical challenges
-- 🤝 Meeting new people & exploring tech communities
+**Currently Exploring**  
+`React.js` `TensorFlow` `Docker` `GitHub Actions`
 
 ---
 
-## 🌐 Let's Connect
+### 🚀 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arshad%20Mahalkari-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arshad-mahalkari)
-
----
-
-## 📊 GitHub Stats
-
-![Arshad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArshadMahalkari&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArshadMahalkari&layout=compact&theme=radical)
-
----
-
-## 📫 Contact Me
-
-- Drop a message on [LinkedIn](https://www.linkedin.com/in/arshad-mahalkari)
-- Open an issue or discussion on any of my projects
-- Or just say hi here on GitHub! 👋
+| Project | Tech | Description |
+|--------|------|-------------|
+| 📈 **Stock Price Predictor** | Python, LSTM | Predict stock trends using deep learning |
+| ☔ **Rain Sensor Cloth Cover** | Arduino | Hardware project to protect clothes during rain |
+| 🧠 **Adobe Hackathon 2025** | Docker, Transformers | Persona-based document intelligence system |
+| 🌐 **Personal Portfolio** *(coming soon)* | HTML, CSS, JS | Interactive dev portfolio with scrollspy + dark mode |
+| 📹 **CodeCuriosity** | Python, Video | Devlog + tutorial YouTube channel for learners |
 
 ---
 
-*“Keep building, keep learning, and never stop being curious.”*
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArshadMahalkari&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://streak-stats.demolab.com?user=ArshadMahalkari&theme=radical" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshadMahalkari&layout=compact&theme=radical" alt="langs" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arshad-mahalkari/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ArshadMahalkari">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/arshad.mahalkari">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:arshadmahalkari@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> ✨ *“Be proud of who you are. Build what you dream.”* – **Arshad Mahalkari**
