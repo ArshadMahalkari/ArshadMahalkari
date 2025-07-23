@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Arshad Mahalkari</h1>
-<h3 align="center">CS Engineer @ DYPCET’26 | Tech Influencer in Progress | Openly Gay | Future ML Engineer</h3>
+<h3 align="center">CS Engineer @ DYPCET’28 | Tech Influencer in Progress | Aspiring Web-developer | Future ML Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Curious+%E2%9C%94;Creative+%E2%9C%94;Community+Lover+%E2%9C%94;Coding+Nonstop+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=800&color=7F7FFF&center=true&vCenter=true&width=450&lines=Curious+Mind+%E2%9C%94;Creative+Soul+%E2%9C%94;Community+Driven+%E2%9C%94;Coding+Everyday+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
+<br>
 ---
 
 ### 🔥 About Me
 
 - 🎓 CSE Sophomore at **DY Patil College of Engineering & Technology, Kolhapur**
 - 💡 Passionate about **Web Dev**, **Machine Learning**, **Arduino Projects**, and **Open Source**
-- 🌈 Loud & Proud: **Openly Gay Developer** 🏳️‍🌈
+- 🌈 Loud & Proud: **Cool Developer** 🏳️‍🌈😎
 - 🧠 Self-driven tech explorer with a flair for community building
 - 🎯 Currently building:
   - 🤖 `Persona-Driven Document AI` – for **Adobe Hackathon 2025**
-  - 📹 `YouTube Channel`: [CodeCuriosity](https://youtube.com/@CodeCuriosity)
 - 🤝 Active in: **MLSA**, **GDG Kolhapur**, **E-Cell**, **TPO Campus Ambassador**
 
 ---
@@ -29,7 +29,7 @@
 `Flask` `Bootstrap` `Arduino IDE` `Git` `Jupyter` `VS Code`
 
 **Currently Exploring**  
-`React.js` `TensorFlow` `Docker` `GitHub Actions`
+`React.js` `TensorFlow` `Docker` `GitHub Actions` `Docker`
 
 ---
 
