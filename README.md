@@ -64,7 +64,7 @@
   <a href="https://github.com/ArshadMahalkari">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://instagram.com/arshad.mahalkari">
+  <a href="https://instagram.com/arshad_mahalkari">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:arshadmahalkari@gmail.com">
